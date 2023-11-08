@@ -6,7 +6,7 @@
 
 ## Pendahuluan
 
-CSS adalah singkatan dari Cascading Style Sheet, secara definisi menurut [w3shool](#https://www.w3.org/style/CSS) yaitu mekanisme sederhana yang mengatur gaya / style (cth: warna, ukuran, posisi, dll) pada halaman web.
+CSS adalah singkatan dari Cascading Style Sheet, secara definisi menurut [w3.org](#https://www.w3.org/style/CSS) yaitu mekanisme sederhana yang mengatur gaya / style (cth: warna, ukuran, posisi, dll) pada halaman web.
 
 **Sebelum Ada CSS**
 
@@ -69,3 +69,5 @@ h1 {
 - Bertujuan untuk memisahkan konten dan style
 - 1 CSS dapat digunakan untuk banyak halaman HTML
 - 1 halaman HTML dapat terlihat berbeda jika menggunakan CSS yang berbeda pula
+
+> Source Material from Web Programming Unpas
